@@ -1,5 +1,5 @@
 # algorithm-java
-algorithm
+프로그래머스 문제 풀기
 
 ## INDEX
 
